@@ -6,12 +6,12 @@ simulated building environment, focusing on efficient electricity and heat usage
 project aims to demonstrate the practical applications of RL in managing complex multi-energy systems, improving operational
 efficiency, and reducing costs.
 
-4. Install required packages:
+3. Install required packages:
   in the bash write the following:
   "pip install -r requirements.txt"
   All necessary libraries, are gym, numpy, pandas, matplotlib, and stable-baselines3 if using DQN or PPO.
 
-5. To run either the Q-learning or DQN/PPO models, you'll need to ensure your setup correctly includes an Excel file for
+4. To run either the Q-learning or DQN/PPO models, you'll need to ensure your setup correctly includes an Excel file for
    input data, which the models use to simulate different energy demands. Here's a step-by-step guide:
 
   Prepare Your Data:
