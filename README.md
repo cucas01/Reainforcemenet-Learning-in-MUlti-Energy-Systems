@@ -45,4 +45,4 @@ efficiency, and reducing costs.
   Future work will also include expanding the environmental model to incorporate additional renewable energy sources and
   exploring real-time pricing models to increase realism and applicability to real-world scenarios.
 
-7. Check the code version it is written nicer and clearer. Go to the top left
+7. Check the code version it is written nicer and clearer. Go to the top left and change from "Preview" to "Code"
