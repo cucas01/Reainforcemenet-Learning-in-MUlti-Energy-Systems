@@ -1,4 +1,4 @@
-# Reainforcemenet-Learning-in-Multi-Energy-Systems
+# 1. Reainforcemenet-Learning-in-Multi-Energy-Systems
 2. Introduction
 This repository contains two Reinforcement Learning (RL) models: a Q-learning model and more advanced models using Deep Q-
 Networks (DQN) and Proximal Policy Optimization (PPO). These models are designed to optimize energy management in a
